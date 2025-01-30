@@ -1,4 +1,5 @@
 🚗 Parking Management System
+
 A Java-based console application that efficiently manages parking spaces, vehicle entries, and billing. This system ensures seamless parking operations by allowing vehicle registration, automated billing, and report generation.
 
 📌 Features
