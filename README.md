@@ -27,10 +27,7 @@ Database: No database (currently operates in-memory using collections)
 📂 Folder Structure
 📦 ParkingManagementSystem  
  ┣ 📜 src/  
- ┃ ┣ 📜 Main.java         # Entry point of the application  
- ┃ ┣ 📜 Vehicle.java      # Vehicle class with details (number, type, model, owner)  
- ┃ ┣ 📜 ParkingLot.java   # Manages vehicle parking and billing  
- ┃ ┗ 📜 ReportGenerator.java # Handles report generation  
+ ┃ ┣ 📜 Main.java         # Entry point of the application    
  ┣ 📜 .gitignore  
  ┣ 📜 README.md  
  ┗ 📜 LICENSE
@@ -51,16 +48,14 @@ Run Main.java.
 
 3️⃣ Sample Input & Output
 
-Register a Vehicle:
-Enter vehicle details:  
-Number: TN-10-AB-1234  
-Type: Car  
-Model: Honda City  
-Owner: John Doe  
-Vehicle added successfully! ✅  
-Calculate Parking Fee:
-Enter exit time: 3 hours  
-Total Fee: ₹50  
+Sample Run 1: Adding a Vehicle
+Enter vehicle number (XX-XX-XX-XXXX): TN-10-AB-1234
+Enter vehicle type (A for Bicycle | B for Bike | C for Car): B
+Enter vehicle model: Pulsar 220
+Enter owner name: Anand
+
+Output
+Entry recorded. Time: 30-01-2025 14:35:12
 
 📜 License
 
