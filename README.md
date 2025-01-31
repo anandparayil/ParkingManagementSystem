@@ -49,12 +49,17 @@ Run Main.java.
 3️⃣ Sample Input & Output
 
 Sample Run 1: Adding a Vehicle
+
 Enter vehicle number (XX-XX-XX-XXXX): TN-10-AB-1234
+
 Enter vehicle type (A for Bicycle | B for Bike | C for Car): B
+
 Enter vehicle model: Pulsar 220
+
 Enter owner name: Anand
 
 Output
+
 Entry recorded. Time: 30-01-2025 14:35:12
 
 📜 License
